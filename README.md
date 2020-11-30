@@ -1,4 +1,4 @@
-# pet-update
+# Pet Update
 #---------------------- FOR ADMIN----------------------------------------------------
 
   Email:admin@admin.com 
@@ -9,6 +9,8 @@
 
 
 #------------------------For PET lover who likes to get update---------------------
-  1. Pet lovers needs to Signup and login to the system
-  2. they can view list of channels and Join channel or unscubscribe from the channel
+  1. Pet lovers needs to Signup before login to the system
+  2. they can view list of channels and they Join any channel or unscubscribe from the channel
+  
+  Test link --- moneyblizz.com
   
